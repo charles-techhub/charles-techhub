@@ -4,6 +4,7 @@ Backend engineer focused on building reliable, scalable services and clean platf
 
 ## Core stack
 
+
 - **.NET**: C#, ASP.NET Core, Web API, EF Core, LINQ, Background Services, Minimal APIs  
 - **Java / Spring**: Spring Boot, Spring MVC, Spring Data, Spring Security, REST APIs  
 - **Node.js**: TypeScript/JavaScript, Express/NestJS-style service design, REST APIs
