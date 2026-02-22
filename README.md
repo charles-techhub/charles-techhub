@@ -1,4 +1,4 @@
-# Charles Zhang
+# James Davis
 
 Backend engineer focused on building reliable, scalable services and clean platform foundations. I enjoy turning complex requirements into simple, well-architected systems, with strong attention to performance, security, and maintainability.
 
